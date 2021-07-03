@@ -887,6 +887,8 @@ MACRO sky130_sram_1kbyte_1rw1r_32x256_8
       END
    END vssd1
    OBS
+   LAYER  li1 ;
+      RECT  0.62 0.62 479.16 396.88 ;
    LAYER  met1 ;
       RECT  0.62 0.62 479.16 396.88 ;
    LAYER  met2 ;
